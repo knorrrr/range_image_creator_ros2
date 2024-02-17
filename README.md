@@ -1,6 +1,8 @@
 # Range Image Creator for ROS 2 humble
 This nodes subscribe ego's current pose(TF or Pose) and PointCloud, and publish depth image(msg::Image, 32FC1)
-
+  
+![depth_image](https://github.com/knorrrr/range_image_creator_ros2/assets/99851410/ed02f4f1-5cf4-43f2-8881-400e9dfed655)
+  
 ## Getting Started
 ### TF-based 
 ```bash
